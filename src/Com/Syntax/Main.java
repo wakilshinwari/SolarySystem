@@ -12,6 +12,9 @@ public class Main {
         Solana.Heat= "675859598558";
         Solana.radius= "657999000";
         Solana.temp= "1233456666";
+        PLANET1 narwhal  = new PLANET1();
+        narwhal.color="green";
+        narwhal.size = "12345435677";
 
     }
 }
