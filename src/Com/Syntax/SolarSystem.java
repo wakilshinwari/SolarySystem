@@ -2,7 +2,7 @@ package Com.Syntax;
 
 public class SolarSystem {
 
-    int sum ;
+    int sun ;
     int Moon;
     int Planets;
 
